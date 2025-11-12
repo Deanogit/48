@@ -97,7 +97,11 @@ export default function Home() {
           </a>
         </h3>
         <p>
-          Taken from Justin Wright&apos;s 48 Questions for Critical Thinking
+          Taken from{' '}
+          <a href="https://www.linkedin.com/in/jwmba" target="_blank">
+            Justin Wright
+          </a>
+          &apos;s 48 Questions for Critical Thinking
         </p>
       </footer>
     </div>
