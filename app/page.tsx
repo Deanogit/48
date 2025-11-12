@@ -85,7 +85,7 @@ export default function Home() {
             <li>How will we implement the solution?</li>
             <li>How will we measure success?</li>
             <li>How should we communicate change?</li>
-            <li>How often should we reasses?</li>
+            <li>How often should we reassess?</li>
           </ul>
         </article>
       </main>
