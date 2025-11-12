@@ -1,9 +1,9 @@
 export default function Home() {
   return (
     <div className="flex  flex-col min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <header>
+      <header className="w-full bg-slate-100 items-center flex flex-col p-8 md:p-10">
         <h1 className="p-6 text-4xl">48 Questions for Critical Thinking</h1>
-        <p>
+        <p className="max-w-lg p-6">
           The document presents 48 critical thinking questions categorized by
           who, what, where, when, why, and how to help individuals analyze
           issues deeply. These questions aim to challenge assumptions, explore
@@ -97,7 +97,7 @@ export default function Home() {
           </ul>
         </article>
       </main>
-      <footer className="flex flex-col gap-4 text-center p-6 bg-slate-100 text-xs w-full">
+      <footer className="flex flex-col gap-4 text-center p-10 bg-slate-200 text-xs w-full">
         <h3>
           Built by{' '}
           <a href="https://deanhowe.dev" target="_blank">
