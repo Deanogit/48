@@ -3,6 +3,14 @@ export default function Home() {
     <div className="flex  flex-col min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
       <header>
         <h1 className="p-6 text-4xl">48 Questions for Critical Thinking</h1>
+        <p>
+          The document presents 48 critical thinking questions categorized by
+          who, what, where, when, why, and how to help individuals analyze
+          issues deeply. These questions aim to challenge assumptions, explore
+          ideas, and facilitate informed decision-making. The infographic
+          emphasizes the importance of understanding different viewpoints and
+          the context surrounding various issues.
+        </p>
       </header>
       <main>
         <article className="flex gap-4 flex-col p-6">
