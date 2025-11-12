@@ -92,7 +92,7 @@ export default function Home() {
       <footer className="flex flex-col gap-4 text-center p-6 bg-slate-100 text-xs w-full">
         <h3>
           Built by{' '}
-          <a href="https://deanhowe.dev">
+          <a href="https://deanhowe.dev" target="_blank">
             <strong>Dean</strong>
           </a>
         </h3>
