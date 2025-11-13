@@ -107,7 +107,7 @@ export default function Home() {
         <p>
           Taken from{' '}
           <a href="https://www.linkedin.com/in/jwmba" target="_blank">
-            Justin Wright
+            <strong>Justin Wright</strong>
           </a>
           &apos;s 48 Questions for Critical Thinking
         </p>
