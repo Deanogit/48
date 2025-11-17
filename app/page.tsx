@@ -12,7 +12,7 @@ export default function Home() {
           the context surrounding various issues.
         </p>
       </header>
-      <main>
+      <main className="p-6">
         <article className="flex gap-4 flex-col p-6">
           <h2 className="text-2xl font-black">Who</h2>
           <ul className="pl-4 flex gap-4 items-left flex-col text-xl font-bold">
