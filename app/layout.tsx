@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: '48 Critical Thinking Questions',
+  title: '48 Questions for Critical Thinking',
   description: 'Built by Dean',
 };
 
